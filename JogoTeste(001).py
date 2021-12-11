@@ -1,4 +1,15 @@
 # Descricao: Meu primeiro jogo a ser desenvolvido na linguagem Python. Estou muito feliz:
+# Sobre o Jogo: Born to die - Uma tartaruga marinha inicia a primeira e pior trajetória em sua vida:
+# Chegar ao mar aberto antes de ser devorada.
+# Status do Projeto: Em andamento.
+# É possível movimentar - se livremente na área estática do game.
+# Será preciso definir limite de movimento para o personagem jogável.
+# Ainda é preciso calcular e inserir o registro de danos sofridos e lançar uma resposta ao usário
+# em uma barra de HP.
+# Estabelecer o sistema de reinício da partida após a morte e resetar os inimigos e progresso do jogo.
+# Contabilizar o valor a ser obtido para finalizar o game.
+# Obs: O projeto criado faz parte de um rascunho para um jogo principal, ainda sendo desenvolvido
+# por enquanto em um roteiro.
 # Dia 1:
 import pygame
 from random import randint
